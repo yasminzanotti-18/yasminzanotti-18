@@ -1,9 +1,4 @@
 
-<!-- MOLDURA EXTERNA DO PORTFÓLIO -->
-<table width="100%" border="2" bordercolor="#604333" cellpadding="14" cellspacing="0">
-<tr>
-<td>
-
 <!-- ====================================== -->
 <!-- YASMIN GABRIELI RUIVO ZANOTTI          -->
 <!-- PORTFÓLIO PROFISSIONAL                 -->
@@ -58,9 +53,7 @@ Busco desenvolver minha trajetória profissional contribuindo para a eficiência
 <td bgcolor="#F3EAE0" width="50%" valign="top">
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/ROTINAS%20ADMINISTRATIVAS-604333?style=for-the-badge" />
-
 </div>
 
 - Organização e suporte às atividades da rotina operacional da empresa.
@@ -75,9 +68,7 @@ Busco desenvolver minha trajetória profissional contribuindo para a eficiência
 <td bgcolor="#E9DDD0" width="50%" valign="top">
 
 <div align="center">
-
 <img src="https://img.shields.io/badge/COMPETÊNCIAS-89664D?style=for-the-badge" />
-
 </div>
 
 - Organização de processos e documentos.
@@ -153,9 +144,7 @@ IoT
 <br/>
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,flutter,dart,html,css,js&theme=light" />
-
 </div>
 
 <br/>
@@ -296,8 +285,3 @@ Busco contribuir com as atividades empresariais por meio da responsabilidade, ca
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:604333,50:89664D,100:C8A98A&height=65&section=footer" />
 
 </div>
-
-<!-- FIM DA MOLDURA EXTERNA -->
-</td>
-</tr>
-</table>
