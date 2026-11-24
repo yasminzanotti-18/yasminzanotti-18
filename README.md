@@ -1,8 +1,12 @@
 
 <!-- ====================================== -->
+<!-- MOLDURA EXTERNA DO PORTFÓLIO           -->
 <!-- YASMIN GABRIELI RUIVO ZANOTTI          -->
-<!-- PORTFÓLIO PROFISSIONAL                 -->
 <!-- ====================================== -->
+
+<table width="100%" border="1" bordercolor="#604333" cellpadding="5" cellspacing="0">
+<tr>
+<td>
 
 <div align="center">
 
@@ -32,21 +36,21 @@
 
 <br/>
 
----
+<hr/>
 
-## 01. APRESENTAÇÃO
+<h2>01. APRESENTAÇÃO</h2>
 
-Sou formada em Técnico em Desenvolvimento de Sistemas pelo SENAI, com conhecimentos técnicos em tecnologia e experiência em atividades administrativas e operacionais.
+<p>Sou formada em Técnico em Desenvolvimento de Sistemas pelo SENAI, com conhecimentos técnicos em tecnologia e experiência em atividades administrativas e operacionais.</p>
 
-Tenho interesse nas áreas de Administração e Gestão, especialmente em organização de processos, controle de informações, elaboração de relatórios, planejamento e acompanhamento de atividades empresariais.
+<p>Tenho interesse nas áreas de Administração e Gestão, especialmente em organização de processos, controle de informações, elaboração de relatórios, planejamento e acompanhamento de atividades empresariais.</p>
 
-Minha formação em tecnologia complementa minha atuação administrativa, proporcionando uma visão integrada entre processos, sistemas e organização de informações.
+<p>Minha formação em tecnologia complementa minha atuação administrativa, proporcionando uma visão integrada entre processos, sistemas e organização de informações.</p>
 
-Busco desenvolver minha trajetória profissional contribuindo para a eficiência das atividades, a melhoria dos processos internos e o desenvolvimento das organizações.
+<p>Busco desenvolver minha trajetória profissional contribuindo para a eficiência das atividades, a melhoria dos processos internos e o desenvolvimento das organizações.</p>
 
 <br/>
 
-## 02. ADMINISTRAÇÃO E GESTÃO
+<h2>02. ADMINISTRAÇÃO E GESTÃO</h2>
 
 <table width="100%">
 <tr>
@@ -56,13 +60,15 @@ Busco desenvolver minha trajetória profissional contribuindo para a eficiência
 <img src="https://img.shields.io/badge/ROTINAS%20ADMINISTRATIVAS-604333?style=for-the-badge" />
 </div>
 
-- Organização e suporte às atividades da rotina operacional da empresa.
-- Desenvolvimento de competências relacionadas à comunicação, organização, responsabilidade e relacionamento com o público.
-- Elaboração e atualização de relatórios.
-- Criação e organização de tabelas e planilhas.
-- Emissão de notas fiscais.
-- Elaboração de orçamentos.
-- Controle e organização de informações administrativas.
+<ul>
+<li>Organização e suporte às atividades da rotina operacional da empresa.</li>
+<li>Desenvolvimento de competências relacionadas à comunicação, organização, responsabilidade e relacionamento com o público.</li>
+<li>Elaboração e atualização de relatórios.</li>
+<li>Criação e organização de tabelas e planilhas.</li>
+<li>Emissão de notas fiscais.</li>
+<li>Elaboração de orçamentos.</li>
+<li>Controle e organização de informações administrativas.</li>
+</ul>
 
 </td>
 <td bgcolor="#E9DDD0" width="50%" valign="top">
@@ -71,13 +77,15 @@ Busco desenvolver minha trajetória profissional contribuindo para a eficiência
 <img src="https://img.shields.io/badge/COMPETÊNCIAS-89664D?style=for-the-badge" />
 </div>
 
-- Organização de processos e documentos.
-- Planejamento e acompanhamento de atividades.
-- Controle de informações.
-- Análise e conferência de dados.
-- Suporte às demandas administrativas.
-- Atendimento e relacionamento com o público.
-- Utilização de ferramentas digitais para atividades empresariais.
+<ul>
+<li>Organização de processos e documentos.</li>
+<li>Planejamento e acompanhamento de atividades.</li>
+<li>Controle de informações.</li>
+<li>Análise e conferência de dados.</li>
+<li>Suporte às demandas administrativas.</li>
+<li>Atendimento e relacionamento com o público.</li>
+<li>Utilização de ferramentas digitais para atividades empresariais.</li>
+</ul>
 
 </td>
 </tr>
@@ -85,57 +93,57 @@ Busco desenvolver minha trajetória profissional contribuindo para a eficiência
 
 <br/>
 
-## 03. TECNOLOGIA E DESENVOLVIMENTO DE SISTEMAS
+<h2>03. TECNOLOGIA E DESENVOLVIMENTO DE SISTEMAS</h2>
 
-Minha formação técnica pelo SENAI proporcionou conhecimentos na área de desenvolvimento de sistemas, integração de tecnologias e criação de soluções digitais.
+<p>Minha formação técnica pelo SENAI proporcionou conhecimentos na área de desenvolvimento de sistemas, integração de tecnologias e criação de soluções digitais.</p>
 
 <table width="100%">
 <tr>
 <td align="center" bgcolor="#F3EAE0" width="33%">
 
-**DESENVOLVIMENTO**
+<strong>DESENVOLVIMENTO</strong>
 
-<br/>
+<br/><br/>
 
 Aplicações web
 
-Aplicações mobile
+<br/>Aplicações mobile
 
-Lógica de programação
+<br/>Lógica de programação
 
-APIs e integração
+<br/>APIs e integração
 
 </td>
 <td align="center" bgcolor="#E9DDD0" width="33%">
 
-**DADOS E SISTEMAS**
+<strong>DADOS E SISTEMAS</strong>
 
-<br/>
+<br/><br/>
 
 Banco de dados
 
-Modelagem de dados
+<br/>Modelagem de dados
 
-MySQL
+<br/>MySQL
 
-Organização de informações
+<br/>Organização de informações
 
 </td>
 <td align="center" bgcolor="#F3EAE0" width="33%">
 
-**TECNOLOGIA**
+<strong>TECNOLOGIA</strong>
 
-<br/>
+<br/><br/>
 
 Laravel
 
-PHP
+<br/>PHP
 
-Flutter
+<br/>Flutter
 
-Python
+<br/>Python
 
-IoT
+<br/>IoT
 
 </td>
 </tr>
@@ -149,9 +157,9 @@ IoT
 
 <br/>
 
----
+<hr/>
 
-## 04. PROJETO EM DESTAQUE
+<h2>04. PROJETO EM DESTAQUE</h2>
 
 <div align="center">
 
@@ -165,52 +173,60 @@ IoT
 
 </div>
 
-O AgriFarm é uma solução tecnológica desenvolvida para o gerenciamento e monitoramento de atividades em propriedades rurais.
+<p>O AgriFarm é uma solução tecnológica desenvolvida para o gerenciamento e monitoramento de atividades em propriedades rurais.</p>
 
-O projeto integra uma plataforma web completa e um aplicativo mobile, reunindo ferramentas de gestão, acompanhamento operacional, controle de informações e análise de dados.
+<p>O projeto integra uma plataforma web completa e um aplicativo mobile, reunindo ferramentas de gestão, acompanhamento operacional, controle de informações e análise de dados.</p>
 
-### Funcionalidades da plataforma
+<h3>Funcionalidades da plataforma</h3>
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top" bgcolor="#F3EAE0">
 
-### 01. Gestão rural
+<h3>01. Gestão rural</h3>
 
-- Gestão de fazendas.
-- Gestão de lotes.
-- Cadastro e acompanhamento de animais.
-- Organização das informações da propriedade.
+<ul>
+<li>Gestão de fazendas.</li>
+<li>Gestão de lotes.</li>
+<li>Cadastro e acompanhamento de animais.</li>
+<li>Organização das informações da propriedade.</li>
+</ul>
 
-### 02. Controle operacional
+<h3>02. Controle operacional</h3>
 
-- Gestão de cocho.
-- Plano alimentar.
-- Acompanhamento da ordenha.
-- Controle da produção de leite.
+<ul>
+<li>Gestão de cocho.</li>
+<li>Plano alimentar.</li>
+<li>Acompanhamento da ordenha.</li>
+<li>Controle da produção de leite.</li>
+</ul>
 
 </td>
 <td width="50%" valign="top" bgcolor="#E9DDD0">
 
-### 03. Gestão e monitoramento
+<h3>03. Gestão e monitoramento</h3>
 
-- Monitoramento do nível de estoque.
-- Controle de consumo de ração.
-- Acompanhamento de alimentação.
-- Organização de dados operacionais.
+<ul>
+<li>Monitoramento do nível de estoque.</li>
+<li>Controle de consumo de ração.</li>
+<li>Acompanhamento de alimentação.</li>
+<li>Organização de dados operacionais.</li>
+</ul>
 
-### 04. Inteligência e análise
+<h3>04. Inteligência e análise</h3>
 
-- Dashboard avançado.
-- Relatórios avançados com apoio de IA.
-- Indicadores de desempenho.
-- Informações para apoio à tomada de decisões.
+<ul>
+<li>Dashboard avançado.</li>
+<li>Relatórios avançados com apoio de IA.</li>
+<li>Indicadores de desempenho.</li>
+<li>Informações para apoio à tomada de decisões.</li>
+</ul>
 
 </td>
 </tr>
 </table>
 
-### Estrutura tecnológica
+<h3>Estrutura tecnológica</h3>
 
 <div align="center">
 
@@ -228,9 +244,9 @@ O projeto integra uma plataforma web completa e um aplicativo mobile, reunindo f
 
 <br/>
 
----
+<hr/>
 
-## 07. OBJETIVO PROFISSIONAL
+<h2>07. OBJETIVO PROFISSIONAL</h2>
 
 <div align="center">
 
@@ -240,13 +256,13 @@ O projeto integra uma plataforma web completa e um aplicativo mobile, reunindo f
 
 <br/>
 
-### Gestão, organização e desenvolvimento.
+<h3>Gestão, organização e desenvolvimento.</h3>
 
 <br/>
 
-Construir uma trajetória profissional nas áreas de Administração e Gestão, aplicando conhecimentos em organização de processos, planejamento, controle de informações e análise de dados.
+<p>Construir uma trajetória profissional nas áreas de Administração e Gestão, aplicando conhecimentos em organização de processos, planejamento, controle de informações e análise de dados.</p>
 
-Busco contribuir com as atividades empresariais por meio da responsabilidade, capacidade de organização e conhecimentos tecnológicos, mantendo o compromisso com o aprendizado contínuo e o desenvolvimento profissional.
+<p>Busco contribuir com as atividades empresariais por meio da responsabilidade, capacidade de organização e conhecimentos tecnológicos, mantendo o compromisso com o aprendizado contínuo e o desenvolvimento profissional.</p>
 
 <br/>
 
@@ -258,13 +274,13 @@ Busco contribuir com as atividades empresariais por meio da responsabilidade, ca
 
 <br/>
 
----
+<hr/>
 
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=27&duration=3000&pause=1500&color=89664D&center=true&vCenter=true&width=500&height=55&lines=Vamos+nos+conectar%3F" />
 
-**YASMIN GABRIELI RUIVO ZANOTTI**
+<strong>YASMIN GABRIELI RUIVO ZANOTTI</strong>
 
 <br/>
 
@@ -285,3 +301,9 @@ Busco contribuir com as atividades empresariais por meio da responsabilidade, ca
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:604333,50:89664D,100:C8A98A&height=65&section=footer" />
 
 </div>
+
+</td>
+</tr>
+</table>
+
+<!-- FIM DA MOLDURA EXTERNA -->
