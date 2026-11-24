@@ -1,253 +1,257 @@
 
-<!-- ========================================= -->
-<!-- YASMIN GABRIELI RUIVO ZANOTTI             -->
-<!-- PORTFÓLIO PROFISSIONAL                    -->
-<!-- ========================================= -->
+<!-- ====================================== -->
+<!-- YASMIN GABRIELI RUIVO ZANOTTI          -->
+<!-- PORTFÓLIO PROFISSIONAL                 -->
+<!-- ====================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=wave&color=0:604333,35:89664D,70:B79575,100:DCC8AE&height=190&section=header&text=Yasmin%20Gabrieli%20Ruivo%20Zanotti&fontSize=34&fontColor=FFFFFF&fontAlignY=38&desc=ADMINISTRA%C3%87%C3%83O%20%7C%20GEST%C3%83O%20%7C%20TECNOLOGIA&descSize=13&descAlignY=60&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:604333,45:89664D,100:C8A98A&height=170&section=header&text=Yasmin%20Gabrieli%20Ruivo%20Zanotti&fontSize=34&fontColor=FFFFFF&fontAlignY=42&desc=ADMINISTRA%C3%87%C3%83O%20%7C%20GEST%C3%83O%20%7C%20TECNOLOGIA&descSize=14&descAlignY=68&animation=fadeIn" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=20&duration=3500&pause=1200&color=89664D&center=true&vCenter=true&width=650&height=40&lines=Organiza%C3%A7%C3%A3o+e+vis%C3%A3o+estrat%C3%A9gica.;Tecnologia+aplicada+aos+neg%C3%B3cios.;Planejamento%2C+gest%C3%A3o+e+an%C3%A1lise." />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=19&duration=3500&pause=1200&color=89664D&center=true&vCenter=true&width=650&height=35&lines=Organiza%C3%A7%C3%A3o+e+gest%C3%A3o+de+processos.;Tecnologia+aplicada+ao+ambiente+empresarial.;Planejamento%2C+an%C3%A1lise+e+desenvolvimento." />
 
-<br/>
+<br/><br/>
 
+<a href="https://www.instagram.com/yasminzanotti_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-604333?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+&nbsp;
 <a href="mailto:yasmingabrieliruivozanotti@gmail.com">
-<img src="https://img.shields.io/badge/FALE%20COMIGO-604333?style=for-the-badge&logo=gmail&logoColor=F5EFE6" />
+<img src="https://img.shields.io/badge/GMAIL-89664D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<img src="https://img.shields.io/badge/PERFIL-PROFISSIONAL-89664D?style=for-the-badge" />
-
 <br/><br/>
 
-<table>
+<img src="https://img.shields.io/badge/ADMINISTRAÇÃO-CBB49B?style=flat-square&labelColor=F3EAE0&color=89664D" />
+<img src="https://img.shields.io/badge/GESTÃO-CBB49B?style=flat-square&labelColor=F3EAE0&color=89664D" />
+<img src="https://img.shields.io/badge/TECNOLOGIA-CBB49B?style=flat-square&labelColor=F3EAE0&color=89664D" />
+
+</div>
+
+<br/>
+
+---
+
+## 01. APRESENTAÇÃO
+
+Sou formada em Técnico em Desenvolvimento de Sistemas pelo SENAI, com conhecimentos técnicos em tecnologia e experiência em atividades administrativas e operacionais.
+
+Tenho interesse nas áreas de Administração e Gestão, especialmente em organização de processos, controle de informações, elaboração de relatórios, planejamento e acompanhamento de atividades empresariais.
+
+Minha formação em tecnologia complementa minha atuação administrativa, proporcionando uma visão integrada entre processos, sistemas e organização de informações.
+
+Busco desenvolver minha trajetória profissional contribuindo para a eficiência das atividades, a melhoria dos processos internos e o desenvolvimento das organizações.
+
+<br/>
+
+## 02. ADMINISTRAÇÃO E GESTÃO
+
+<table width="100%">
 <tr>
-<td align="center">
-<img src="https://img.shields.io/badge/01-604333?style=flat-square" />
-<br/>
-<strong>ADMINISTRAÇÃO</strong>
+<td bgcolor="#F3EAE0" width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/ROTINAS%20ADMINISTRATIVAS-604333?style=for-the-badge" />
+
+</div>
+
+- Organização e suporte às atividades da rotina operacional da empresa.
+- Desenvolvimento de competências relacionadas à comunicação, organização, responsabilidade e relacionamento com o público.
+- Elaboração e atualização de relatórios.
+- Criação e organização de tabelas e planilhas.
+- Emissão de notas fiscais.
+- Elaboração de orçamentos.
+- Controle e organização de informações administrativas.
+
 </td>
-<td align="center">
-<img src="https://img.shields.io/badge/02-89664D?style=flat-square" />
-<br/>
-<strong>GESTÃO</strong>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/03-B79575?style=flat-square" />
-<br/>
-<strong>TECNOLOGIA</strong>
+<td bgcolor="#E9DDD0" width="50%" valign="top">
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/COMPETÊNCIAS-89664D?style=for-the-badge" />
+
+</div>
+
+- Organização de processos e documentos.
+- Planejamento e acompanhamento de atividades.
+- Controle de informações.
+- Análise e conferência de dados.
+- Suporte às demandas administrativas.
+- Atendimento e relacionamento com o público.
+- Utilização de ferramentas digitais para atividades empresariais.
+
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
+
+## 03. TECNOLOGIA E DESENVOLVIMENTO DE SISTEMAS
+
+Minha formação técnica pelo SENAI proporcionou conhecimentos na área de desenvolvimento de sistemas, integração de tecnologias e criação de soluções digitais.
+
+<table width="100%">
+<tr>
+<td align="center" bgcolor="#F3EAE0" width="33%">
+
+**DESENVOLVIMENTO**
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=604333&height=3&section=header" />
+Aplicações web
 
-## 01 — SOBRE MIM
+Aplicações mobile
+
+Lógica de programação
+
+APIs e integração
+
+</td>
+<td align="center" bgcolor="#E9DDD0" width="33%">
+
+**DADOS E SISTEMAS**
+
+<br/>
+
+Banco de dados
+
+Modelagem de dados
+
+MySQL
+
+Organização de informações
+
+</td>
+<td align="center" bgcolor="#F3EAE0" width="33%">
+
+**TECNOLOGIA**
+
+<br/>
+
+Laravel
+
+PHP
+
+Flutter
+
+Python
+
+IoT
+
+</td>
+</tr>
+</table>
+
+<br/>
 
 <div align="center">
 
-### Uma visão que conecta gestão e tecnologia.
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,flutter,dart,html,css,js&theme=light" />
 
 </div>
 
-Sou estudante da área de Desenvolvimento de Sistemas pelo SENAI, com experiência profissional em atividades administrativas, atendimento ao cliente e tecnologia.
-
-Tenho interesse na área de Administração e Gestão, especialmente em organização de processos, controle de informações, planejamento e análise de dados.
-
-Minha formação técnica em tecnologia amplia minha capacidade de compreender processos empresariais e buscar soluções que contribuam para a organização e eficiência das atividades.
-
-Meu objetivo é construir uma trajetória profissional unindo visão administrativa, conhecimentos tecnológicos e capacidade analítica.
-
 <br/>
+
+---
+
+## 04. PROJETO EM DESTAQUE
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ORGANIZAÇÃO-604333?style=flat-square" />
-<img src="https://img.shields.io/badge/PLANEJAMENTO-89664D?style=flat-square" />
-<img src="https://img.shields.io/badge/ANÁLISE-B79575?style=flat-square" />
-<img src="https://img.shields.io/badge/TECNOLOGIA-C5A98B?style=flat-square" />
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:604333,50:89664D,100:B79575&height=125&section=header&text=AgriFarm&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=GERENCIAMENTO%20INTELIGENTE%20DE%20RA%C3%87%C3%83O%20NAS%20FAZENDAS&descSize=12&descAlignY=72" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B79575&height=2&section=header" />
+<img src="https://img.shields.io/badge/PLATAFORMA%20WEB-604333?style=for-the-badge" />
+<img src="https://img.shields.io/badge/APLICATIVO%20MOBILE-89664D?style=for-the-badge" />
+<img src="https://img.shields.io/badge/INTELIGÊNCIA%20ARTIFICIAL-B79575?style=for-the-badge" />
 
-## 02 — ÁREAS DE CONHECIMENTO
+</div>
+
+O AgriFarm é uma solução tecnológica desenvolvida para o gerenciamento e monitoramento de atividades em propriedades rurais.
+
+O projeto integra uma plataforma web completa e um aplicativo mobile, reunindo ferramentas de gestão, acompanhamento operacional, controle de informações e análise de dados.
+
+### Funcionalidades da plataforma
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top" bgcolor="#F3EAE0">
 
-<div align="center">
+### 01. Gestão rural
 
-<img src="https://img.shields.io/badge/01-604333?style=for-the-badge" />
+- Gestão de fazendas.
+- Gestão de lotes.
+- Cadastro e acompanhamento de animais.
+- Organização das informações da propriedade.
 
-### ADMINISTRAÇÃO & GESTÃO
+### 02. Controle operacional
 
-</div>
-
-- Organização de processos
-- Planejamento de atividades
-- Controle de informações
-- Elaboração de tabelas e relatórios
-- Organização de documentos
-- Rotinas administrativas
-
-</td>
-<td width="50%" valign="top" bgcolor="#E9DDD0">
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/02-89664D?style=for-the-badge" />
-
-### TECNOLOGIA & SISTEMAS
-
-</div>
-
-- Desenvolvimento de sistemas
-- Banco de dados
-- Aplicações web e mobile
-- Análise e organização de dados
-- Soluções tecnológicas
-- Integração de sistemas
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 03 — EXPERIÊNCIA PROFISSIONAL
-
-<table width="100%">
-<tr>
-<td width="8%" align="center" bgcolor="#604333">
-<font color="#FFFFFF"><strong>01</strong></font>
-</td>
-<td bgcolor="#F3EAE0">
-
-**DESENVOLVIMENTO DE SISTEMAS**
-
-Experiência profissional em ambiente empresarial, participando de atividades relacionadas ao desenvolvimento de soluções computacionais, testes, implantação e manutenção de sistemas.
-
-</td>
-</tr>
-<tr>
-<td width="8%" align="center" bgcolor="#89664D">
-<font color="#FFFFFF"><strong>02</strong></font>
-</td>
-<td bgcolor="#E9DDD0">
-
-**ATENDIMENTO E OPERAÇÕES**
-
-Experiência com atendimento ao público, operação de caixa, organização de atividades operacionais e suporte à rotina empresarial.
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=604333&height=3&section=header" />
-
-## 04 — PROJETO EM DESTAQUE
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:604333,50:89664D,100:B79575&height=125&section=header&text=AgriFarm&fontSize=42&fontColor=FFFFFF&fontAlignY=42&desc=GERENCIAMENTO%20INTELIGENTE%20DE%20RA%C3%87%C3%83O&descSize=12&descAlignY=72" />
-
-<br/>
-
-<img src="https://img.shields.io/badge/PROJETO%20ACADÊMICO-604333?style=for-the-badge" />
-<img src="https://img.shields.io/badge/WEB%20%2B%20MOBILE-89664D?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IOT-B79575?style=for-the-badge" />
-
-</div>
-
-O AgriFarm é um projeto de gerenciamento desenvolvido para organizar informações e melhorar o controle da alimentação animal nas propriedades rurais.
-
-A solução integra um sistema web e um aplicativo mobile, reunindo dados que auxiliam no acompanhamento do consumo, estoque e desempenho da alimentação.
-
-### O que foi desenvolvido
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top" bgcolor="#F3EAE0">
-
-**01. GERENCIAMENTO**
-
-Organização de cadastros de fazendas, animais e informações relacionadas à produção.
-
-**02. CONTROLE**
-
-Acompanhamento do estoque e consumo de ração.
-
-**03. INTEGRAÇÃO**
-
-Comunicação com sensores e dispositivos IoT.
+- Gestão de cocho.
+- Plano alimentar.
+- Acompanhamento da ordenha.
+- Controle da produção de leite.
 
 </td>
 <td width="50%" valign="top" bgcolor="#E9DDD0">
 
-**04. SISTEMA WEB**
+### 03. Gestão e monitoramento
 
-Desenvolvimento de funcionalidades para gerenciamento de informações.
+- Monitoramento do nível de estoque.
+- Controle de consumo de ração.
+- Acompanhamento de alimentação.
+- Organização de dados operacionais.
 
-**05. APLICATIVO**
+### 04. Inteligência e análise
 
-Aplicação mobile para acompanhamento dos dados.
-
-**06. RELATÓRIOS**
-
-Organização de informações para auxiliar na tomada de decisões.
+- Dashboard avançado.
+- Relatórios avançados com apoio de IA.
+- Indicadores de desempenho.
+- Informações para apoio à tomada de decisões.
 
 </td>
 </tr>
 </table>
 
-### Tecnologias utilizadas
+### Estrutura tecnológica
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,flutter,dart&theme=light" />
+<img src="https://img.shields.io/badge/DASHBOARD-604333?style=flat-square" />
+<img src="https://img.shields.io/badge/WEB-89664D?style=flat-square" />
+<img src="https://img.shields.io/badge/MOBILE-B79575?style=flat-square" />
+<img src="https://img.shields.io/badge/BANCO%20DE%20DADOS-CBB49B?style=flat-square" />
+<img src="https://img.shields.io/badge/IA-604333?style=flat-square" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/BACK--END-604333?style=flat-square" />
-<img src="https://img.shields.io/badge/MOBILE-89664D?style=flat-square" />
-<img src="https://img.shields.io/badge/DADOS-B79575?style=flat-square" />
+<img src="https://skillicons.dev/icons?i=php,laravel,mysql,flutter,dart,python&theme=light" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B79575&height=2&section=header" />
+---
 
-## 05 — FORMAÇÃO
+## 05. FORMAÇÃO ACADÊMICA
 
 <table width="100%">
 <tr>
-<td width="22%" align="center" bgcolor="#604333">
+<td width="20%" align="center" bgcolor="#604333">
 
-<img src="https://img.shields.io/badge/2026-FFFFFF?style=for-the-badge&labelColor=604333" />
+<img src="https://img.shields.io/badge/SENAI-FFFFFF?style=for-the-badge&labelColor=604333" />
 
 </td>
 <td bgcolor="#F3EAE0">
 
 **TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS**
 
-SENAI
+Formação técnica concluída pelo SENAI.
 
-Formação técnica em andamento.
-
-Previsão de conclusão: dezembro de 2026.
+Conhecimentos em desenvolvimento de aplicações, banco de dados, programação e soluções tecnológicas.
 
 </td>
 </tr>
@@ -255,9 +259,7 @@ Previsão de conclusão: dezembro de 2026.
 
 <br/>
 
-## 06 — COMPETÊNCIAS PROFISSIONAIS
-
-<div align="center">
+## 06. HABILIDADES PROFISSIONAIS
 
 <table width="100%">
 <tr>
@@ -272,14 +274,14 @@ Organização
 
 **02**
 
-Planejamento
+Comunicação
 
 </td>
 <td align="center" bgcolor="#F3EAE0" width="33%">
 
 **03**
 
-Comunicação
+Responsabilidade
 
 </td>
 </tr>
@@ -308,29 +310,25 @@ Adaptabilidade
 </tr>
 </table>
 
-</div>
-
 <br/>
 
-## 07 — OBJETIVO PROFISSIONAL
+## 07. OBJETIVO PROFISSIONAL
 
 <div align="center">
 
 <table width="95%">
 <tr>
-<td bgcolor="#F3EAE0" align="center">
+<td align="center" bgcolor="#F3EAE0">
 
 <br/>
 
-### Construir. Organizar. Desenvolver.
+### Gestão, organização e desenvolvimento.
 
 <br/>
 
-Construir uma trajetória profissional na área de Administração e Gestão, desenvolvendo conhecimentos em planejamento, organização, controle e análise de processos empresariais.
+Construir uma trajetória profissional nas áreas de Administração e Gestão, aplicando conhecimentos em organização de processos, planejamento, controle de informações e análise de dados.
 
-Busco aplicar minha experiência profissional e formação técnica em tecnologia para contribuir com a eficiência das atividades, a organização das informações e a melhoria dos processos internos.
-
-Tenho interesse em oportunidades que proporcionem crescimento, aprendizado e participação ativa no desenvolvimento da empresa.
+Busco contribuir com as atividades empresariais por meio da responsabilidade, capacidade de organização e conhecimentos tecnológicos, mantendo o compromisso com o aprendizado contínuo e o desenvolvimento profissional.
 
 <br/>
 
@@ -342,20 +340,22 @@ Tenho interesse em oportunidades que proporcionem crescimento, aprendizado e par
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=604333&height=3&section=header" />
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=28&duration=3000&pause=1500&color=89664D&center=true&vCenter=true&width=500&height=55&lines=Vamos+nos+conectar%3F" />
-
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=27&duration=3000&pause=1500&color=89664D&center=true&vCenter=true&width=500&height=55&lines=Vamos+nos+conectar%3F" />
 
 **YASMIN GABRIELI RUIVO ZANOTTI**
 
 <br/>
 
+<a href="https://www.instagram.com/yasminzanotti_/">
+<img src="https://img.shields.io/badge/INSTAGRAM-604333?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 <a href="mailto:yasmingabrieliruivozanotti@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-604333?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-89664D?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
@@ -364,6 +364,6 @@ Tenho interesse em oportunidades que proporcionem crescimento, aprendizado e par
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:604333,50:89664D,100:DCC8AE&height=110&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:604333,50:89664D,100:C8A98A&height=65&section=footer" />
 
 </div>
