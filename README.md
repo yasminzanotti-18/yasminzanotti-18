@@ -1,4 +1,9 @@
 
+<!-- MOLDURA EXTERNA DO PORTFÓLIO -->
+<table width="100%" border="2" bordercolor="#604333" cellpadding="14" cellspacing="0">
+<tr>
+<td>
+
 <!-- ====================================== -->
 <!-- YASMIN GABRIELI RUIVO ZANOTTI          -->
 <!-- PORTFÓLIO PROFISSIONAL                 -->
@@ -236,8 +241,6 @@ O projeto integra uma plataforma web completa e um aplicativo mobile, reunindo f
 
 ---
 
-
-
 ## 07. OBJETIVO PROFISSIONAL
 
 <div align="center">
@@ -293,3 +296,8 @@ Busco contribuir com as atividades empresariais por meio da responsabilidade, ca
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:604333,50:89664D,100:C8A98A&height=65&section=footer" />
 
 </div>
+
+<!-- FIM DA MOLDURA EXTERNA -->
+</td>
+</tr>
+</table>
